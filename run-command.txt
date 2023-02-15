@@ -1,0 +1,1 @@
+jmeter -n -t .\Svelte-Load-Test\svelte-test-plan.jmx -l .\Svelte-Load-Test\Results.csv -e -o .\Svelte-Load-Test\Report
